@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChartAndroid</string>
+    <string name="bar_chart_demo">Bar Chart</string>
+    <string name="pie_chart_demo">Pie Chart</string>
+    <string name="bar_chart_simple_demo">BAR CHART SIMPLE</string>
+    <string name="line_chart_demo">Line Chart</string>
+    <string name="combined_chart_bar_line"><![CDATA[Combined Chart (Bar & Line)]]></string>
+</resources>
